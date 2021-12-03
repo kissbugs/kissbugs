@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+  ![vonmo GitHub stats](https://github-readme-stats.vercel.app/api?username=von-mo&show_icons=true) </br >
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=von-mo&layout=compact)](https://github.com/alileew/github-readme-stats)
+
 <!--
 **von-mo/von-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
